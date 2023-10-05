@@ -1,0 +1,52 @@
+@media only screen and (min-width: 200px) and (max-width: 1200px){
+.notice-animated li a{font-size: 14px;}
+.menu-items ul li a{font-size: 14px;margin: 0px 4px;}
+.information-box a{font-size: 16px; padding: 8px 10px;}
+.message-box h2{font-size: 20px;}
+.social-information li a{font-size: 16px !important;}
+ .school-information-box h3{font-size: 16px; font-weight: 600;}
+ .school-information-box img{width: 150px; height: 150px;margin-left: 25px;}
+}
+
+@media only screen and (min-width: 200px) and (max-width: 992px){
+.main-container{width: 90%;}
+.mujib-100 img{margin-top: 20%;}
+.notice-animated li a{font-size: 13px; margin-left: -60%;}
+.menu-items ul li a{font-size: 14px;margin: 0px 4px;}
+.information-box a{font-size: 14px; padding: 8px 20px;}
+.message-box h2{font-size: 18px;}
+.school-information-box h3{font-size: 15px;}
+.about-our-school img{width: 180px; height: 180px; margin-left: 15px}
+.extra-info-head span{font-size: 12px;}
+}
+
+@media only screen and (min-width: 769px) and (max-width: 990px){
+    .main-con-middle{order: -1;}
+    .notice-list li::before {top: 20%;left: -4%;}
+}
+
+@media only screen and (min-width: 200px) and (max-width: 768px){
+.main-con-middle{order: -1;}
+.mujib-100 img{margin-top: 22%; width: 130px; margin-left: -35%;}
+.notice-animated li a{font-size: 14px; margin-left: -50%;}
+.message-box{margin-bottom: 25px;}
+.notice-list li::before {top: 20%;left: -5%;
+ 
+    
+}
+}
+
+@media only screen and (min-width: 200px) and (max-width: 767px){
+ .main-container{width: 98%;}
+ .heder-top{height: auto;}
+ .top-contact{margin-top: -7%; font-size: 12px;}
+ .school-name{display: none;}
+ .mobile-view-school-name{display: block;}
+ .school-name-mobile-view{order: -1;}
+ .school-name-text h2{font-size: 20px !important;}
+ .notice-animated li a{font-size: 12px !important; margin-left: -95%;}
+ .information-items img{padding-bottom: 25px ;}
+ .footer-middle h3{margin-left: -18%;}
+
+
+}
